@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.baby, .small, .medium, .large {
+  display: none;
+}
+
+img {
+  width: 250px;
+}
