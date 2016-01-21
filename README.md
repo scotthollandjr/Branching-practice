@@ -10,4 +10,8 @@ Practice using jQuery branching, for Epicodus JavaScript Basics course
 
 _This website will use HTML, CSS and JavaScript_
 
+## Link to GitHub Repository
+
+https://github.com/theAppanaut/Branching-practice.git
+
 Copyright (c) 2016 **_Scott Holland, Jr._**
